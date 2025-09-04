@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <footer>
-        this project build my shamsher ali 
+         build my shamsher ali 
       </footer>
     </>
   )
